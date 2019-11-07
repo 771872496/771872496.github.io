@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>A Passage</title>
+  
+  <subtitle>&lt;span style=&quot;color:black&quot;&gt;你指尖跳动的电光，是我永恒不变的信仰。唯我超电磁炮永世长存。&lt;/span&gt;</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-08-07T13:25:37.756Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>随遇而安</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/09/29/hello-world/"/>
+    <id>http://yoursite.com/2019/09/29/hello-world/</id>
+    <published>2019-09-29T04:39:09.618Z</published>
+    <updated>2019-08-07T13:25:37.756Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="请输入密码，查看文章！( 。＿ 。) ✎ ＿" />    <label for="pass">请输入密码，查看文章！( 。＿ 。) ✎ ＿</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">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</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      这是一篇加密文章，(ノへ￣、) 如果您确实想看，请在右下角与我联系！！！
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>本山大叔-念诗之王</title>
+    <link href="http://yoursite.com/2019/08/16/%E6%9C%AC%E5%B1%B1%E5%A4%A7%E5%8F%94-%E5%BF%B5%E8%AF%97%E4%B9%8B%E7%8E%8B/"/>
+    <id>http://yoursite.com/2019/08/16/本山大叔-念诗之王/</id>
+    <published>2019-08-16T10:27:43.000Z</published>
+    <updated>2019-08-16T11:49:26.245Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2>中国 Rap 之王</h2><a id="more"></a><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=19390801&cid=31621681&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2&gt;中国 Rap 之王&lt;/h2&gt;
+    
+    </summary>
+    
+      <category term="bilibili" scheme="http://yoursite.com/categories/bilibili/"/>
+    
+    
+      <category term="鬼畜" scheme="http://yoursite.com/tags/%E9%AC%BC%E7%95%9C/"/>
+    
+      <category term="bilibili" scheme="http://yoursite.com/tags/bilibili/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>某科学的超电磁炮</title>
+    <link href="http://yoursite.com/2019/08/10/%E8%B6%85%E7%94%B5%E7%A3%81%E7%82%AE/"/>
+    <id>http://yoursite.com/2019/08/10/超电磁炮/</id>
+    <published>2019-08-10T07:45:47.000Z</published>
+    <updated>2019-09-05T01:21:37.227Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="B站剪辑"><a href="#B站剪辑" class="headerlink" title="B站剪辑"></a>B站剪辑</h2><blockquote><script type="text/javascript" src="https://api.uixsj.cn/hitokoto/w.php?code=js"></script><div id="xsjhitokoto" style="font-size:20px; margin:20px"><script>xsjhitokoto()</script></div></blockquote><a id="more"></a><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=810872&cid=1176840&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div><center><h3>插件暂时不能使用，忽略......</h3></center><p><video width="400%" height="400px" controls="controls">    <source src="超电磁炮/kuiba.mp4" type="video/mp4"></video></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;B站剪辑&quot;&gt;&lt;a href=&quot;#B站剪辑&quot; class=&quot;headerlink&quot; title=&quot;B站剪辑&quot;&gt;&lt;/a&gt;B站剪辑&lt;/h2&gt;&lt;blockquote&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://api.uixsj.cn/hitokoto/w.php?code=js&quot;&gt;&lt;/script&gt;&lt;div id=&quot;xsjhitokoto&quot; style=&quot;font-size:20px; margin:20px&quot;&gt;&lt;script&gt;xsjhitokoto()&lt;/script&gt;&lt;/div&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="bilibili" scheme="http://yoursite.com/categories/bilibili/"/>
+    
+    
+      <category term="bilibili" scheme="http://yoursite.com/tags/bilibili/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>创建单例</title>
+    <link href="http://yoursite.com/2019/08/10/%E5%88%9B%E5%BB%BA%E5%8D%95%E4%BE%8B/"/>
+    <id>http://yoursite.com/2019/08/10/创建单例/</id>
+    <published>2019-08-10T07:37:05.000Z</published>
+    <updated>2019-08-30T12:36:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="使用装饰器："><a href="#使用装饰器：" class="headerlink" title="使用装饰器："></a><strong>使用装饰器：</strong></h1><img src="/2019/08/10/创建单例/beijing.jpg" class="full-image" height="100px"><a id="more"></a><p><strong>装饰器不但可以装饰函数，也可以装饰类</strong></p><p><strong>如果要书写单例，命名为：defaultInstance，currentInstance，getInstance等</strong></p><h3 id="思路："><a href="#思路：" class="headerlink" title="思路："></a><strong>思路：</strong></h3><p>​    在外部函数中定义一个变量，在内部函数中进行单例的设置，最终将设置的结果返回</p><h2 id="方式一"><a href="#方式一" class="headerlink" title="方式一"></a>方式一</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">singleton</span><span class="params">(cls)</span>:</span></span><br><span class="line">    instance = <span class="literal">None</span></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">getInstance</span><span class="params">(*args,**kwargs)</span>:</span></span><br><span class="line">        <span class="keyword">nonlocal</span>  instance  <span class="comment">#局部变量和全局变量重名，扩大作用域</span></span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">not</span> instance:</span><br><span class="line">            instance = cls(*args,**kwargs)</span><br><span class="line">        <span class="keyword">return</span> instance</span><br><span class="line">    <span class="keyword">return</span> getInstance</span><br><span class="line"></span><br><span class="line"><span class="meta">@singleton</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Check</span><span class="params">()</span>:</span></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">__init__</span><span class="params">(self,name,age)</span>:</span></span><br><span class="line">        self.name = name</span><br><span class="line">        self.age = age</span><br><span class="line"></span><br><span class="line">c1 = Check(<span class="string">"jack"</span>,<span class="number">10</span>)</span><br><span class="line">print(c1)</span><br><span class="line"></span><br><span class="line">c2 = Check(<span class="string">"abc"</span>,<span class="number">45</span>)</span><br><span class="line">print(c2)</span><br></pre></td></tr></table></figure><h2 id="方式二"><a href="#方式二" class="headerlink" title="方式二"></a>方式二</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">singleton</span><span class="params">(cls)</span>:</span></span><br><span class="line"> <span class="comment">#定义一个字典，字典用来保存被装饰的类和对应的唯一的对象,&#123;类:对象&#125;</span></span><br><span class="line">    instanceDict  = &#123;&#125;</span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">getInstance</span><span class="params">(*args,**kwargs)</span>:</span></span><br><span class="line">        <span class="keyword">if</span> cls <span class="keyword">not</span> <span class="keyword">in</span> instanceDict:</span><br><span class="line">            instanceDict[cls] = cls(*args,**kwargs)</span><br><span class="line">        <span class="keyword">return</span> instanceDict[cls]</span><br><span class="line">    <span class="keyword">return</span> getInstance</span><br><span class="line"></span><br><span class="line"><span class="meta">@singleton</span></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Person</span><span class="params">(object)</span>:</span></span><br><span class="line">    <span class="comment">#实例属性</span></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">__init__</span><span class="params">(self,name)</span>:</span></span><br><span class="line">        self.name = name</span><br><span class="line">    <span class="comment">#成员函数</span></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">show</span><span class="params">(self)</span>:</span></span><br><span class="line">        <span class="keyword">pass</span></span><br><span class="line">    <span class="comment">#类方法</span></span><br><span class="line"><span class="meta">    @classmethod</span></span><br><span class="line">        <span class="function"><span class="keyword">def</span> <span class="title">func</span><span class="params">(cls)</span>:</span></span><br><span class="line">            <span class="keyword">pass</span></span><br><span class="line">    <span class="comment">#静态方法</span></span><br><span class="line"><span class="meta">    @staticmethod</span></span><br><span class="line">        <span class="function"><span class="keyword">def</span> <span class="title">func2</span><span class="params">()</span>:</span></span><br><span class="line">            <span class="keyword">pass</span></span><br><span class="line"></span><br><span class="line">p1 = Person()</span><br><span class="line">print(p1)</span><br><span class="line">p2 = Person()</span><br><span class="line">print(p2)</span><br><span class="line"></span><br><span class="line">p1.show()</span><br><span class="line">p1.func()</span><br></pre></td></tr></table></figure><h3 id="单例类和普通类的区别仅仅是单例类只能创建一个对象，其余的用法和普通类完全相同"><a href="#单例类和普通类的区别仅仅是单例类只能创建一个对象，其余的用法和普通类完全相同" class="headerlink" title="单例类和普通类的区别仅仅是单例类只能创建一个对象，其余的用法和普通类完全相同"></a><strong>单例类和普通类的区别仅仅是单例类只能创建一个对象，其余的用法和普通类完全相同</strong></h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;使用装饰器：&quot;&gt;&lt;a href=&quot;#使用装饰器：&quot; class=&quot;headerlink&quot; title=&quot;使用装饰器：&quot;&gt;&lt;/a&gt;&lt;strong&gt;使用装饰器：&lt;/strong&gt;&lt;/h1&gt;&lt;img src=&quot;/2019/08/10/创建单例/beijing.jpg&quot; class=&quot;full-image&quot; height=&quot;100px&quot;&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://yoursite.com/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python字符串功能</title>
+    <link href="http://yoursite.com/2019/08/06/Python%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8A%9F%E8%83%BD/"/>
+    <id>http://yoursite.com/2019/08/06/Python字符串功能/</id>
+    <published>2019-08-06T07:37:05.000Z</published>
+    <updated>2019-08-09T01:39:08.695Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="https://source.unsplash.com/random/1200x500?wallpapers" class="full-image"><a id="more"></a><h3 id="字符串功能"><a href="#字符串功能" class="headerlink" title="字符串功能"></a>字符串功能</h3><h4 id="填充"><a href="#填充" class="headerlink" title="填充"></a>填充</h4><p><strong>.center(width,fillchar)：</strong>被填充字符长度只能为  1 </p><p><strong>.ljust(width,fillchar)：</strong>原字符串被居左，其他剩余的字符串使用指定的字符填充，默认使用空格填充</p><p><strong>.rjust(width,fillchar)：</strong>居右</p><p><strong>.zfill(width)</strong>：返回一个长度为width的字符串，<strong>原字符串右对齐，前面补0</strong></p><p><strong>.count((str)[,start],[,end])</strong>：返回字符串中str出现的次数，可以指定一个范围，默认从头到尾</p><h4 id="查找"><a href="#查找" class="headerlink" title="查找"></a><strong>查找</strong></h4><p><strong>.find((str)[,start],[,end])</strong>：检测str字符串中是否包含在字符串中，可以指定范围，默认从头到尾，得到的是第一次出现的下标，<strong>没有找到则返回 -1</strong></p><p><strong>.rfind</strong>：从右到左</p><p><strong>.index()</strong>：从列表中获取第一个匹配元素的位置，前提时该元素存在</p><p><strong>.rindex()</strong>：从右往左</p><h4 id="字母转换"><a href="#字母转换" class="headerlink" title="字母转换"></a><strong>字母转换</strong></h4><p><strong>eval()：可以进行内部数字运算</strong></p><p><strong>.lower()：</strong>字母全部小写</p><p><strong>.upper()：</strong>字母全部大写</p><p><strong>.swapcase()：字母大转小，小转大</strong></p><p><strong>.title()</strong>：每个首字母大写</p><p><strong>.capitalize()</strong>：第一个单词首字母大写</p><p><strong>chr(xx)</strong> ：char actor  ， 字符， 将整数转化为在ASCii码中对应的字符</p><p><strong>ord(xx)</strong> ：ordinary ，原始的，将资格字符转化为ASCII码中对应的数字</p><h4 id="提取"><a href="#提取" class="headerlink" title="提取"></a><strong>提取</strong></h4><p><strong>.strip</strong>：截掉左，右两侧指定字符串，默认为空格</p><p><strong>.lstrip</strong>：截掉左侧指定字符串，默认为空格</p><p><strong>.strip</strong>：截掉右侧指定字符串，默认为空格</p><h4 id="数字进制转换"><a href="#数字进制转换" class="headerlink" title="数字进制转换"></a><strong>数字进制转换</strong></h4><p><strong>int(“  “)：将x转化为十进制</strong></p><p><strong>int 中的  base 关键字表示按当前需要被转换的数据的形式【什么进制 】，最终通过int返回的是十进制</strong></p><h5 id="bin-：将x转化为二进制"><a href="#bin-：将x转化为二进制" class="headerlink" title="bin(     )：将x转化为二进制"></a><strong>bin(     )：将x转化为二进制</strong></h5><p><strong>hex(     )：</strong>将x转化为十六进制</p><p><strong>cot(      )：</strong>将x转化为八进制</p><h4 id="字符串的分割，列表的合并"><a href="#字符串的分割，列表的合并" class="headerlink" title="字符串的分割，列表的合并"></a>字符串的分割，列表的合并</h4><p>list = str.<strong>split(substr,num)</strong>：substr表示分隔符，num表示分割的最大次数</p><p><strong>“ substr “.join(列表)：将一个列表中的元素转化为字符串</strong> </p><h4 id="替换"><a href="#替换" class="headerlink" title="替换"></a><strong>替换</strong></h4><h5 id="1-普通替换"><a href="#1-普通替换" class="headerlink" title="1. 普通替换"></a><strong>1. 普通替换</strong></h5><p><strong>.replace(old,new,(max))：</strong>使用new替换old，可以指定替换最大次数</p><h5 id="2-映射替换（可以进行简单加密）"><a href="#2-映射替换（可以进行简单加密）" class="headerlink" title="2. 映射替换（可以进行简单加密）"></a><strong>2. 映射替换（可以进行简单加密）</strong></h5><p><strong>.maketrans(“原始数据”,”需要替换的数据”)</strong>：生成一个映射表（ASCII）</p><p>！！！生成映射表的时候，两个字符串的长度必须相等，否则报错</p><p><strong>.translate()</strong>：翻译，通过映射表将指定的字符串中的字符替换</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;https://source.unsplash.com/random/1200x500?wallpapers&quot; class=&quot;full-image&quot;&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://yoursite.com/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python2和Python3的区别</title>
+    <link href="http://yoursite.com/2019/08/05/Python2%E5%92%8CPython3%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+    <id>http://yoursite.com/2019/08/05/Python2和Python3的区别/</id>
+    <published>2019-08-05T12:27:00.000Z</published>
+    <updated>2019-08-30T12:30:05.912Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="https://api.uixsj.cn/bing/bing.php" width="100%px" height="350px"><a id="more"></a> <h4 id="1-性能：py3其实比py2的效率低，py3有极大地优化了空间，效率处于追赶状态"><a href="#1-性能：py3其实比py2的效率低，py3有极大地优化了空间，效率处于追赶状态" class="headerlink" title="1. 性能：py3其实比py2的效率低，py3有极大地优化了空间，效率处于追赶状态"></a>1. 性能：py3其实比py2的效率低，py3有极大地优化了空间，效率处于追赶状态</h4><h4 id="2-编码：py3使用utf-8编码，使得变量名更加广阔【可以使用中文作为变量】"><a href="#2-编码：py3使用utf-8编码，使得变量名更加广阔【可以使用中文作为变量】" class="headerlink" title="2. 编码：py3使用utf-8编码，使得变量名更加广阔【可以使用中文作为变量】"></a>2. 编码：py3使用utf-8编码，使得变量名更加广阔【可以使用中文作为变量】</h4><h4 id="3-语法："><a href="#3-语法：" class="headerlink" title="3. 语法："></a>3. 语法：</h4><ul><li>​    去除了不等于号&lt;&gt;，py3使用的是 !=</li><li>​    加入了with…as关键字，新增了None，True，False</li><li>​    加入了nonlocal语句</li><li>​    去除了print操作符，新增了print()函数</li><li>​    去除了raw_input操作符，加入了input()函数</li><li>​    新的super()函数，可以不用传参</li><li>​    新的八进制的字面量：py2中使用数字0表示八进制，py3中使用0o表示八进制</li></ul><h4 id="4-字符和字符串"><a href="#4-字符和字符串" class="headerlink" title="4. 字符和字符串"></a>4. 字符和字符串</h4><p>​    py2中采用8-bit字符串存储，py3中采用16-bit，Unicode字符串存储</p><p>​    py3中不管时一个字符，还是多个字符，都是字符串表示</p><h4 id="5-数据类型"><a href="#5-数据类型" class="headerlink" title="5. 数据类型"></a>5. 数据类型</h4><p>​    py2中数字类型分为int和long(长整型)</p><p>​    py3中数字类型只有一种int，新增了一种bytes【实现了字符串的编码encode和解码decode】</p><h4 id="6-异常"><a href="#6-异常" class="headerlink" title="6. 异常"></a>6. 异常</h4><p>​    py2中：try…except 错误表示码,变量</p><p>​    py3中：try…except 错误表示码 as 变量：</p><h4 id="7-其他"><a href="#7-其他" class="headerlink" title="7. 其他"></a>7. 其他</h4><p>​    1. py2中求变量使用xrange()，py3中使用range()</p><p>​    2. 打开文件：</p><p>​          py2中打开文件需要两步：1.file(path)  2.poen(path)</p><p>​          py3中打开文件只需要一步：open(path)</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;https://api.uixsj.cn/bing/bing.php&quot; width=&quot;100%px&quot; height=&quot;350px&quot;&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://yoursite.com/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>结构化查询语言</title>
+    <link href="http://yoursite.com/2019/08/04/2019-08-04%E7%BB%93%E6%9E%84%E5%8C%96%E6%9F%A5%E8%AF%A2%E8%AF%AD%E8%A8%80/"/>
+    <id>http://yoursite.com/2019/08/04/2019-08-04结构化查询语言/</id>
+    <published>2019-08-04T09:49:27.000Z</published>
+    <updated>2019-08-30T12:40:45.072Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="/2019/08/04/2019-08-04结构化查询语言/huagang.jpg" class="full-image"><a id="more"></a><h4 id="一：数据查询语言（DQL-Data-Query-Language）："><a href="#一：数据查询语言（DQL-Data-Query-Language）：" class="headerlink" title="一：数据查询语言（DQL:Data Query Language）："></a><strong>一：数据查询语言（DQL:Data Query Language）：</strong></h4><p>​    其语句，也称为“数据检索语句”，用以从表中获得数据，确定数据怎样在应用程序给出。保留字SELECT是DQL（也是所有SQL）用得最多的动词，其他DQL常用的保留字有WHERE，ORDER BY，GROUP BY和HAVING。这些DQL保留字常与其他类型的SQL语句一起使用。</p><h4 id="二：数据操作语言（DML：Data-Manipulation-Language）："><a href="#二：数据操作语言（DML：Data-Manipulation-Language）：" class="headerlink" title="二：数据操作语言（DML：Data Manipulation Language）："></a><strong>二：数据操作语言（DML：Data Manipulation Language）：</strong></h4><p>​    其语句包括动词INSERT，UPDATE和DELETE。它们分别用于添加，修改和删除表中的行。也称为动作查询语言。</p><h4 id="三：事务处理语言（TPL）："><a href="#三：事务处理语言（TPL）：" class="headerlink" title="三：事务处理语言（TPL）："></a><strong>三：事务处理语言（TPL）：</strong></h4><p>​    它的语句能确保被DML语句影响的表的所有行及时得以更新。TPL语句包括BEGIN TRANSACTION，COMMIT和ROLLBACK。</p><h4 id="四：数据控制语言（DCL）："><a href="#四：数据控制语言（DCL）：" class="headerlink" title="四：数据控制语言（DCL）："></a><strong>四：数据控制语言（DCL）：</strong></h4><p>​    它的语句通过GRANT或REVOKE获得许可，确定单个用户和用户组对数据库对象的访问。某些RDBMS可用GRANT或REVOKE控制对表单个列的访问。</p><h4 id="五：数据定义语言（DDL）："><a href="#五：数据定义语言（DDL）：" class="headerlink" title="五：数据定义语言（DDL）："></a><strong>五：数据定义语言（DDL）：</strong></h4><p>​    其语句包括动词CREATE和DROP。在数据库中创建新表或删除表（CREAT TABLE 或 DROP TABLE）；为表加入索引等。DDL包括许多与人数据库目录中获得数据有关的保留字。它也是动作查询的一部分。</p><h4 id="六：指针控制语言（CCL）："><a href="#六：指针控制语言（CCL）：" class="headerlink" title="六：指针控制语言（CCL）："></a><strong>六：指针控制语言（CCL）：</strong></h4><p>​    它的语句，像DECLARE CURSOR，FETCH INTO和UPDATE WHERE CURRENT用于对一个或多个表单独行的操作。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2019/08/04/2019-08-04结构化查询语言/huagang.jpg&quot; class=&quot;full-image&quot;&gt;
+    
+    </summary>
+    
+      <category term="MySQL" scheme="http://yoursite.com/categories/MySQL/"/>
+    
+    
+      <category term="MySQL" scheme="http://yoursite.com/tags/MySQL/"/>
+    
+  </entry>
+  
+</feed>
