@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/09/12/scrapy%E4%B8%8Escrapy-redis/</loc>
+    
+    <lastmod>2019-11-12T03:39:46.985Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/08/10/%E8%B6%85%E7%94%B5%E7%A3%81%E7%82%AE/</loc>
     
     <lastmod>2019-09-05T01:21:37.227Z</lastmod>
