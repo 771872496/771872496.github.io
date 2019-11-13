@@ -1841,7 +1841,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffffd9;
+  background: #77737f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2827,6 +2827,13 @@ img:hover {
   right: 0 !important;
   top: 0 !important;
   bottom: 0 !important;
+}
+body {
+  background-image: url("https://hexo-myblog.oss-cn-qingdao.aliyuncs.com/hexo/beijing.jpg?x-oss-process=style/hexo");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
 }
 .zhao-cover-img-container {
   position: fixed;
